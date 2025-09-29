@@ -1,4 +1,4 @@
 # hello-world
 This is my first Assignment
-I have a Masters degreein management information systems, My first degree was in Information Technology.
-I have eight years experience and i look forward to learning through these platiform.
+I have a Master's degree in management information systems. My first degree was in Information Technology.
+I have fifteen years of experience and I look forward to learning through these platform.
