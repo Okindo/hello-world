@@ -1,0 +1,17 @@
+walker sum_numbers with entry {
+    std.out("Enter the first number: ");
+    let input1 = std.in();
+
+    std.out("Enter the second number: ");
+    let input2 = std.in();
+
+    if (is_float(input1) && is_float(input2)) {
+        let num1 = float(input1);
+        let num2 = float(input2);
+        let result = num1 + num2;
+
+        std.out("The sum of " + str(num1) + " and " + str(num2) + " is " + str(result) + ".");
+    } else {
+        std.out("Invalid input! Please enter numeric values.");
+    }
+}
